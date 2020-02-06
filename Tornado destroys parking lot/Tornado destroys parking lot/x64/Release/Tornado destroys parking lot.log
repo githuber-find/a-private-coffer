@@ -1,0 +1,11 @@
+﻿  buff_detect.cpp
+c:\users\86184\desktop\machine learning\parking lot (machine learning)\tornado destroys parking lot\tornado destroys parking lot\buff_detect.cpp(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\86184\desktop\machine learning\parking lot (machine learning)\tornado destroys parking lot\tornado destroys parking lot\buff_detect.cpp(102): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\86184\desktop\machine learning\parking lot (machine learning)\tornado destroys parking lot\tornado destroys parking lot\buff_detect.cpp(205): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\86184\desktop\machine learning\parking lot (machine learning)\tornado destroys parking lot\tornado destroys parking lot\buff_detect.cpp(206): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  3 of 543 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Tornado destroys parking lot.vcxproj -> C:\Users\86184\Desktop\machine learning\parking lot (machine learning)\Tornado destroys parking lot\x64\Release\Tornado destroys parking lot.exe
